@@ -1,5 +1,5 @@
 var isEnabled = true;
-var maxTabs = 20;
+var maxTabs = 1;
 var tabsCount;
 
 function updateBadgeText() {
